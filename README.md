@@ -1,1 +1,1 @@
-👋 Oi, eu sou @Otavio867. Sou novo no mundo da programação e quero aprimorar meus conhecimentos em Python, CSS e JavaScript
+👋 Oi, eu sou @Otavio867. Sou novo no mundo da programação e quero aprimorar meus conhecimentos em Python, CSS e JavaScript. Aqui eu vou basicamente usar como uma plataforma para meus estudos, como se fosse o meu "caderno diigital".
